@@ -31,3 +31,5 @@ typing_extensions==4.6.3
 tzdata==2023.3
 virtualenv==20.23.0
 wrapt==1.15.0
+
+Faker~=18.11.2
